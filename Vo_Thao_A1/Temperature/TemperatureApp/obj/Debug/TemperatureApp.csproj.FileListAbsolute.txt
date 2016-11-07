@@ -1,0 +1,12 @@
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\bin\Debug\TemperatureApp.exe.config
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\bin\Debug\TemperatureApp.exe
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\bin\Debug\TemperatureApp.pdb
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\obj\Debug\TemperatureApp.csprojResolveAssemblyReference.cache
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\obj\Debug\TemperatureApp.TemperatureForm.resources
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\obj\Debug\TemperatureApp.Properties.Resources.resources
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\obj\Debug\TemperatureApp.csproj.GenerateResource.Cache
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\obj\Debug\TemperatureApp.exe
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Temperature\TemperatureApp\obj\Debug\TemperatureApp.pdb
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Vo_Thao_A1\Temperature\TemperatureApp\bin\Debug\TemperatureApp.exe.config
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Vo_Thao_A1\Temperature\TemperatureApp\obj\Debug\TemperatureApp.exe
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Vo_Thao_A1\Temperature\TemperatureApp\obj\Debug\TemperatureApp.pdb

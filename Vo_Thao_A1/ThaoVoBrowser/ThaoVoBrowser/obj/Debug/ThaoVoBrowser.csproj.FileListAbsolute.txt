@@ -1,0 +1,12 @@
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\bin\Debug\ThaoVoBrowser.exe.config
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\bin\Debug\ThaoVoBrowser.exe
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\bin\Debug\ThaoVoBrowser.pdb
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\obj\Debug\ThaoVoBrowser.csprojResolveAssemblyReference.cache
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\obj\Debug\ThaoVoBrowser.Form1.resources
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\obj\Debug\ThaoVoBrowser.Properties.Resources.resources
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\obj\Debug\ThaoVoBrowser.csproj.GenerateResource.Cache
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\obj\Debug\ThaoVoBrowser.exe
+c:\users\tnv\documents\visual studio 2015\Projects\ThaoVoBrowser\ThaoVoBrowser\obj\Debug\ThaoVoBrowser.pdb
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Vo_Thao_A1\ThaoVoBrowser\ThaoVoBrowser\bin\Debug\ThaoVoBrowser.exe.config
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Vo_Thao_A1\ThaoVoBrowser\ThaoVoBrowser\obj\Debug\ThaoVoBrowser.exe
+C:\Users\TNV\Documents\Visual Studio 2015\Projects\Vo_Thao_A1\ThaoVoBrowser\ThaoVoBrowser\obj\Debug\ThaoVoBrowser.pdb
